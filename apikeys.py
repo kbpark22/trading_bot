@@ -1,0 +1,4 @@
+# Store API keys and secrets
+
+UPBIT_ACCESS_KEY = 'YOUR_ACCESS_KEY'
+UPBIT_SECRET_KEY = 'YOUR_SECRET_KEY'
